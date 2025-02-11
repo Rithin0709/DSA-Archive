@@ -5,7 +5,7 @@
 <p>✅ Practice-focused DSA codebase<br>✅ Implementations in multiple programming languages<br>✅ Easy-to-understand code with comments<br>✅ Open for future improvements!</p>
 <h2>📂 Repositories</h2>
 <ul>
-<li><p>DSA in C <a href="#">Link</a></p></li>
+<li><p>DSA in C <a href="https://github.com/Rithin0709/DSA-Archive_C_Language/tree/main">Link</a></p></li>
 <li><p></h3>DSA in Java <a href="#">Link</a></p></li>
 <li><p>DSA in Python <a href="#">Link</a></p></li>
 </ul>
