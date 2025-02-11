@@ -4,10 +4,10 @@
 <p>This project is a work in progress, and I am open to learning, making changes, and improving my implementations over time. Feel free to provide suggestions or feedback!</p>
 <p>✅ Practice-focused DSA codebase<br>✅ Implementations in multiple programming languages<br>✅ Easy-to-understand code with comments<br>✅ Open for future improvements!</p>
 <h2>📂 Repositories</h2>
-<p><h3>.</h3>DSA in C <a href="#">Link</a></p>
-<p><h3>.</h3>DSA in Java <a href="#">Link</a></p>
-<p><h3>.</h3>DSA in Python <a href="#">Link</a></p>
-
-DSA in Rust
+<ul>
+<li><p>DSA in C <a href="#">Link</a></p></li>
+<li><p></h3>DSA in Java <a href="#">Link</a></p></li>
+<li><p>DSA in Python <a href="#">Link</a></p></li>
+</ul>
 <h2>📜 License</h2>
 <p>This project is just for my personal practice and learning purposes.<br>Made with ❤️ by Rithin R S.</p>
