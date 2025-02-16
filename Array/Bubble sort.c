@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 void bubble_sort(int *arr, size_t size) {
-    for (size_t i = 0; i < size - 1; i++) {
-        for (size_t j = 0; j < size - i - 1; j++) {
+    for (unsigned short int i = 0; i < size - 1; i++) {
+        for (unsigned short int j = 0; j < size - i - 1; j++) {
             if (arr[j] > arr[j + 1]) {
                 int temp = arr[j];
                 arr[j] = arr[j + 1];
